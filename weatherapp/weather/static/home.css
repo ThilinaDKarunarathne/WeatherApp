@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/08/84/14/35/360_F_884143595_djKriaOjFhwHLoTXfMQTST9glBwmoEmH.jpg");
+  background-size: cover; /* Optional: ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Optional: prevents the image from repeating */
+  background-position: center; /* Optional: centers the image */
+  height: max-content;
+}
+
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+  }
+  .row {
+    color: rgb(0, 14, 93);
+  }
+  .texts {
+    padding-top:5px ;
+    width: 250px;
+    height: 170px;
+    background-color: hsla(0, 0%, 100%, 0.3); 
+    line-height: 20px;
+    line-height: 0.4;
+  }
