@@ -3,7 +3,7 @@ body {
   background-size: cover; /* Optional: ensures the image covers the entire background */
   background-repeat: no-repeat; /* Optional: prevents the image from repeating */
   background-position: center; /* Optional: centers the image */
-  height: max-content;
+  background-size: contain;
 }
 
   
@@ -17,6 +17,7 @@ body {
   }
   .row {
     color: rgb(0, 14, 93);
+    
   }
   .texts {
     padding-top:5px ;
